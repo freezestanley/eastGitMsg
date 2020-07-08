@@ -4,7 +4,8 @@
 --------------------------------------------------
 
 ```
-  ex: feat_moviev1_0708  // 新功能_电影项目第一期需求_分支生成日期
+  ex: 
+  branch name: feat_moviev1_0708  // 新功能_电影项目第一期需求_分支生成日期
 ```
   
   类型: 
@@ -26,4 +27,7 @@
 
 ```
 git commit -m 'feat: 功能描述 备注'
+
+ex:
+git commit -m 'feat: develop movie_seat_choose feature 1.6需求'
 ```
