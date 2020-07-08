@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 
-* GIT
+* GIT注意事项
     * [GIT MESSSAGE](git/msg.md)
     * [GIT BRANCH](git/branch.md)
