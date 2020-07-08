@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 
-* [GIT]
+* GIT
     * [GIT MESSSAGE](git/msg.md)
