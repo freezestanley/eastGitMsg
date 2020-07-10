@@ -1,4 +1,4 @@
 # eastGitMsg
 
->East(东福) fontend
+>East fontend
 ---------------------
